@@ -1,4 +1,4 @@
-# Cómo Asegurar un Servidor Linux
+# Cómo proteger un Servidor Linux
 
 Una guía práctica en evolución para asegurar un servidor Linux que, con suerte, también te enseña un poco sobre seguridad y por qué es importante.
 
